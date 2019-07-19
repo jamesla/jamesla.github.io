@@ -1,16 +1,16 @@
 [{
     "title": "Cloud",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "assets/images/features/noun_server connections_1735009.svg"
+    "description": "Cloud and Devops",
+    "image": "assets/images/features/cloud.svg"
   },
   {
     "title": "Development",
-    "description": "All members of our team are certified accountants.",
-    "image": "assets/images/features/noun_web coding_1734983.svg"
+    "description": "Software and Web Development",
+    "image": "assets/images/features/development.svg"
   },
   {
     "title": "Content",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "assets/images/features/noun_phone touch_1735024.svg"
+    "description": "Content Development and Social Media",
+    "image": "assets/images/features/content.svg"
   }
 ]
