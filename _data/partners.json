@@ -1,21 +1,22 @@
-[{
-    "title": "Netflix",
-    "image": "assets/images/partners/netflix.svg"
+[
+  {
+    "title": "Google Cloud",
+    "image": "assets/images/partners/Google_Cloud_Logo.svg"
   },
   {
-    "title": "Android",
-    "image": "assets/images/partners/android.svg"
+    "title": "Ruby on Rails",
+    "image": "assets/images/partners/rails.png"
   },
   {
-    "title": "Slack",
-    "image": "assets/images/partners/slack.svg"
+    "title": "Microsoft Azure",
+    "image": "assets/images/partners/azure.png"
   },
   {
-    "title": "Algolia",
-    "image": "assets/images/partners/algolia.svg"
+    "title": "Amazon Web Services",
+    "image": "assets/images/partners/aws.png"
   },
   {
-    "title": "Github",
-    "image": "assets/images/partners/github.svg"
+    "title": "Kubernetes",
+    "image": "assets/images/partners/kubernetes.svg"
   }
 ]

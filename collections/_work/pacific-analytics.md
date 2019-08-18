@@ -1,13 +1,13 @@
 ---
-title: 'Pacific Analytics'
+title: ''
 date: 2018-12-20T15:22:30+10:00
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Adore Sunglasses'
-heroSubHeading: 'Memorata haberet sepulcrales gentisque dum sic.'
-heroBackground: 'assets/images/work/tamara-bellis-434725-unsplash.jpg'
-image: 'assets/images/work/tamara-bellis-434725-unsplash.jpg'
+heroHeading: ''
+heroSubHeading: ''
+heroBackground: 'assets/images/work/pacificanalytics.png'
+image: 'assets/images/work/pacificanalytics.png'
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
