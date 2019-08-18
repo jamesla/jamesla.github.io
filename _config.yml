@@ -54,11 +54,9 @@ params:
     splash_one_image: assets/images/undraw_post_online_dkuk.svg
     splash_one_heading: We Help Business Grow
     splash_one_paragraph:
-      Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus
-      oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea
-      duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam
-      aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat
-      assueverit.
+      We are here for companies of all shapes and sizes.
+      We help our clients grow their business and brand by using leading development platforms, engaging design and thoughtful content.
+      We collaborate with clients on their goals and deliver digital solutions that encompass web development and design, graphic design, digital and email marketing, SEO and app development.
     splash_one_link_url: work
     splash_one_link_text: Our Work
     show_partners: true
@@ -70,13 +68,9 @@ params:
     show_features: true
     show_splash_one_section: true
     splash_one_background_image: assets/images/kaleidico-754543-unsplash.jpg
-    splash_one_heading: We build great software
+    splash_one_heading: "We're digital experts"
     splash_one_paragraph:
-      Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus
-      oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea
-      duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam
-      aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat
-      assueverit.
+      We design, develop and support digital experiences and solutions from technical website builds, to compelling digital strategies and mobile apps. Our unique combination of deep technical knowledge, creative approach and attention to detail means we consistently deliver.
   contact_cta:
     heading: Ready to get started?
     subheading: Get in touch and get a quote.

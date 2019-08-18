@@ -3,10 +3,9 @@ title: 'Emma McCallum'
 date: 2018-12-20T13:44:30+10:00
 draft: false
 image: 'assets/images/team/joseph-gonzalez-399972-unsplash.jpg'
-jobtitle: 'Art Director'
-dribble_url: 'https://dribbble.com/ausrobert'
-behance_url: 'https://www.behance.net'
+jobtitle: 'Digital Director'
+linkedin_url: 'https://linkedin.com/emma'
 weight: 2
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Emma has more than 10 years experience in developing and managing content. With roots in journalism and magazine publishing, Emma is a natural storyteller with a creative editorial mindset.
