@@ -1,7 +1,7 @@
 ---
 title: 'Digital Content'
 date: 2018-11-18T12:33:46+10:00
-description: "It's all about creating thoughtful content that captivates your audience, builds your brand and drives growth."
+description: "Thoughtful content that captivates your audience, builds your brand and gets your message across"
 icon: 'assets/images/services/content.png'
 featured: true
 weight: 6
