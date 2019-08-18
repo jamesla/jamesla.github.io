@@ -52,7 +52,7 @@ params:
     services_count: 6
     show_splash_section_one: true
     splash_one_image: assets/images/undraw_post_online_dkuk.svg
-    splash_one_heading: We Help Business Grow
+    splash_one_heading: We Help Businesses Grow
     splash_one_paragraph:
       We are here for companies of all shapes and sizes.
       We help our clients grow their business and brand by using leading development platforms, engaging design and thoughtful content.

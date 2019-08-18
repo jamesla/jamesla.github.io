@@ -31,6 +31,6 @@ footer_primary:
     url: /contact/
     weight: 6
 footer_secondary:
-  - name: Contact Support
+  - name: Contact
     url: /contact/
     weight: 1
