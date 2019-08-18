@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Proof is in the crowd'
 date: 2018-12-20T15:22:30+10:00
 draft: false
 featured: true
