@@ -2,7 +2,7 @@
 title: 'James McCallum'
 date: 2018-12-20T13:44:30+10:00
 draft: false
-image: 'assets/images/team/joseph-gonzalez-399972-unsplash.jpg'
+image: 'assets/images/team/james.jpeg'
 jobtitle: 'Technical Director'
 linkedin_url: 'https://www.linkedin.com/in/mccallumjames'
 weight: 1
