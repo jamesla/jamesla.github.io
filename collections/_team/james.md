@@ -8,4 +8,4 @@ linkedin_url: 'https://www.linkedin.com/in/mccallumjames'
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+James has more than 10 years experience in technology. With roots in systems administration and software development, James can help you deliver business value via the use of technology.
